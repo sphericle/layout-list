@@ -1,15 +1,23 @@
 {
     "id": 80341120,
     "name": "Unnamed Layout",
-    "author": "WingzGD",
+    "author": "Wingz_GD",
     "creators": [],
-    "verifier": "WingzGD",
+    "verifier": "Wingz_GD",
     "verification": "https://youtu.be/nYpjjcc-K7E?si=tVs2IjNcAkvCsfth",
     "percentToQualify": 100,
     "song": "Creo - Dark Rides",
     "difficulty": 0,
     "enjoyment": 9,
     "records": [
+        {
+            "user": "Poke Zach",
+            "link": "https://youtu.be/DpUzNBirtOs",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true,
+            "enjoyment": 8
+        }
         
     ]
 }
