@@ -8,5 +8,20 @@
 	"percentToQualify": 100,
 	"password": "Free to copy",
 	"difficulty": 10,
-	"records" : []
+	"records": [
+		{
+			"user": "PoolGAMER",
+			"link": "https://youtube.com",
+			"percent": 100,
+			"enjoyment": -1,
+			"fps": 240
+		},
+		{
+			"user": "Poke Zach",
+			"link": "https://youtube.com",
+			"percent": 100,
+			"enjoyment": -1,
+			"fps": 240
+		}
+	]
 }
