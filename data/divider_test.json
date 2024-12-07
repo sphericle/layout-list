@@ -1,0 +1,12 @@
+{
+	"id": 120391234,
+	"name": "divider test",
+	"author": "sphericle",
+	"creators": ["sphericle"],
+	"verifier": "sphericle",
+	"verification": "https://youtube.com",
+	"percentToQualify": 100,
+	"password": "3434434",
+	"difficulty": 10,
+	"records" : []
+}
