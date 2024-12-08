@@ -574,10 +574,11 @@
 		},
 		{
 			"user": "sphericle",
-			"link": "https://youtu.be/2muwLrQSkgU",
-			"percent": 50,
+			"link": "https://record.com",
+			"percent": 100,
 			"hz": 240,
-			"mobile": false
+			"mobile": false,
+			"enjoyment": -1
 		},
 		{
 			"user": "SinSnrGD",
