@@ -58,6 +58,12 @@
 			"link": "https://testrecord.com",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "sphericle",
+			"link": "https://finally.com",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
