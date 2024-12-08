@@ -1231,6 +1231,13 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 5
+		},
+		{
+			"user": "sphericle",
+			"link": "https://google.com",
+			"percent": 100,
+			"enjoyment": -1,
+			"hz": 240
 		}
 	]
 }
