@@ -574,10 +574,11 @@
 		},
 		{
 			"user": "sphericle",
-			"link": "https://youtu.be/2muwLrQSkgU",
-			"percent": 50,
+			"link": "https://hi.com",
+			"percent": 100,
 			"hz": 240,
-			"mobile": false
+			"mobile": false,
+			"enjoyment": -1
 		},
 		{
 			"user": "SinSnrGD",
@@ -1231,6 +1232,13 @@
 			"hz": 480,
 			"mobile": false,
 			"enjoyment": 5
+		},
+		{
+			"user": "sphericle",
+			"link": "https://hi.com",
+			"percent": 100,
+			"enjoyment": -1,
+			"hz": 240
 		}
 	]
 }
