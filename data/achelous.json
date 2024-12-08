@@ -52,6 +52,12 @@
 			"percent": 100,
 			"enjoyment": -1,
 			"hz": 240
+		},
+		{
+			"user": "sphericle",
+			"link": "https://testrecord.com",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
